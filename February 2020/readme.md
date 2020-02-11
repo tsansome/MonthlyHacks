@@ -12,7 +12,6 @@ With that brief intro this is the challenge:
 * Trial merging the two datasets together using the fields (name, email, phone number).
 * Change your conditions to finalise your merge so that you result with 100 customers.
 * Enrich your merged dataset with demographic information.
-* Bonus: Get it into Power BI and visualise it.
 
 At the end you need to figure out a way that the two teams can now use this beautifully single customer view, maybe a power bi report?
 
