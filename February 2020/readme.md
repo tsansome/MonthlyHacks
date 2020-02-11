@@ -6,10 +6,13 @@ You have two different sets of contact details provided to you. One from the con
 This means that when a person calls and makes a complaint if it needs to be passed through to waste management, waste management are missing some of the golden information that the contact centre has.
 
 With that brief intro this is the challenge:
-* Merge the two datasets into a single customer view
-* Remove any duplication due to the merge
-* Add in LGAS to the dataset
-* Enrich your merged dataset with demographic information
+* Import the three datasets.
+* Join the SuburbtoLGAs dataset with the Contact Center dataset to bring in LGAS for the suburbs.
+* Fix the misspelling of New Zeland in the Contact Center dataset.
+* Trial merging the two datasets together using the fields (name, email, phone number).
+* Change your conditions to finalise your merge so that you result with 100 customers.
+* Enrich your merged dataset with demographic information.
+* Bonus: Get it into Power BI and visualise it.
 
 At the end you need to figure out a way that the two teams can now use this beautifully single customer view, maybe a power bi report?
 
