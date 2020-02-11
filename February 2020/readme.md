@@ -41,8 +41,6 @@ Ensure to switch the **authentication kind** to **account key**.
 
 __account name__: trainingzonedatasets
 
-__account key__: nypVfJ5+GZ5UMCeU2LUcJjdVANiRZ28BECypxTQ7JjDDdGci18GqezmVSJs9Tb3b49rNcBJ+ICOnY69n+QZf8g==
-
 ## Now hack away
 
 Okay so now it's upto you to complete the challenge.
